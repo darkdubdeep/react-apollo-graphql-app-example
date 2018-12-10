@@ -1,1 +1,3 @@
 ﻿npm i graphql express-graphql express axios
+
+npx create-react-app client
