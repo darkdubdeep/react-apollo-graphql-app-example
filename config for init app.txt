@@ -1,3 +1,7 @@
 ﻿npm i graphql express-graphql express axios
 
 npx create-react-app client
+
+npm install classnames moment react-moment
+
+npm i react-router-dom
