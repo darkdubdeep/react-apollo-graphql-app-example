@@ -29,7 +29,7 @@ export class Launches extends Component {
             return (
               <Fragment>
                 {data.launches.map(launch => (
-                  <LaunchItem key={launch.launch_date_local} launch={launch} />
+                  <LaunchItem key={launch.flight_number} launch={launch} />
                 ))}
               </Fragment>
             );
